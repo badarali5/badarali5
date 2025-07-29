@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 I'm Badar Ali
+
+> A Software Engineering student trying to build clean code and cool projects 🧠💻💸
+
+---
+
+#### 🚀 About Me
+
+- 🎓 Student @ FAST NUCES Karachi | Software Engineering
+- 💭 Currently building my way into **full-stack web dev** (Spring Boot + React)
+- 🔍 Learning Java, Data Structures & Algorithms, and debugging my life simultaneously
+
+---
+
+#### 💻 Tech Stack
+
+```js
+const techStack = {
+  languages: ['Java', 'JavaScript', 'HTML', 'CSS'],
+  frontend: ['React', 'TailwindCSS'],
+  backend: ['Spring Boot', 'Node.js (learning...)'],
+  database: ['PostgreSQL', 'MongoDB'],
+  tools: ['Git', 'VS Code', 'Postman', 'Linux'],
+};
+
