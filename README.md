@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 #### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/badar-ali-07bb36282/)
-- 🌐 [Portfolio (coming soon... maybe 🙃)]
+- 🌐 [Portfolio](https://badarali.vercel.app/)
 - 📧 badaralinaqvi512@email.com
