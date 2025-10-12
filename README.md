@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 - 💼 [LinkedIn](https://www.linkedin.com/in/badar-ali-07bb36282/)
 - 🌐 [Portfolio](https://badarali.vercel.app/)
 - 📧 badaralinaqvi512@email.com
+- [![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge)](https://github.com/badarali5/badarali5/blob/main/Badar-Ali-Resume.pdf)
+
