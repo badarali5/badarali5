@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Badar Ali
+## Badar Ali
 
 <!--
 **badarali5/badarali5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
