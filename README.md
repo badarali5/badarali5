@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> A Software Engineering student trying to build clean code and cool projects 🧠💻💸
+> Software Engineering student turning clean code into cooler projects — and cooler projects into cash.
 
 ---
 
