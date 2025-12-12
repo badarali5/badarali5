@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 - 📧 badaralinaqvi512@email.com
 
   
-[![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge)](https://github.com/badarali5/badarali5/blob/main/Badar_Ali_Resume.pdf)
+[![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge)](https://github.com/badarali5/badarali5/blob/main/Resume.pdf)
 
