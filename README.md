@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Software Engineer turning clean code into cooler projects — and cooler projects into cash.
+> Hi! I'm Badar, an Aspiring Backend Engineer and Software Engineering student at FAST NUCES (Class of 2028).
+I build backend systems that are fast, scalable, and built to last. From REST APIs and databases to architecture decisions and CI/CD pipelines, I care about the depth behind the code. 
 
 ---
 
