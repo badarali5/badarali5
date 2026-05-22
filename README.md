@@ -59,5 +59,5 @@ I build backend systems that are fast, scalable, and built to last. From REST AP
 - 📧 badaralinaqvi512@email.com
 
   
-[![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge)](https://github.com/badarali5/badarali5/blob/main/Resume.pdf)
+[![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge)](https://github.com/badarali5/badarali5/blob/main/Badar_Resume.pdf)
 
