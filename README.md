@@ -23,8 +23,8 @@ I build backend systems that are fast, scalable, and built to last. From REST AP
 #### 🚀 About Me
 
 - 🎓 Student @ FAST NUCES Karachi | Software Engineering
-- 💭 Currently building my way into **full-stack web dev** (Spring Boot + React)
-- 🔍 Learning Java, Data Structures & Algorithms, and debugging my life simultaneously
+- 💭 Currently building my way into AI/ML
+- 💼 Software Engineering Intern @ 10Pearls | Building scalable backend solutions
 
 ---
 
